@@ -1,0 +1,9 @@
+Building xscoin
+
+See doc/readme-qt.rst for instructions on building xscoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of xscoin.
+
+See doc/build-*.txt for instructions on building xscoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of xscoin.
