@@ -14,7 +14,6 @@ xscoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - subsidy halves in 840k blocks (~4 years)
 
 BlockSize: 1000 kb ( Maximum)
-
            250 Kb ( Minimum)
            
 Total Supply Coins: 6 crore
